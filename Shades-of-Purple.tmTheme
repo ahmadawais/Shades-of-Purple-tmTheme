@@ -676,11 +676,11 @@
                 <string>
           , entity.name.class.php,
           , entity.name.type.class.php,
-        </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#80FFBB</string>
+                    <string>#9EFFFF</string>
                 </dict>
             </dict>
             <dict>
@@ -693,7 +693,7 @@
                     <key>background</key>
                     <string></string>
                     <key>foreground</key>
-                    <string>#FB94FF</string>
+                    <string>#FAD000</string>
                 </dict>
             </dict>
             <dict>
@@ -848,7 +848,7 @@
                 <string>
         , punctuation.definition.string.begin.js,
         , punctuation.definition.string.end.js,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -862,7 +862,7 @@
                 <string>
        , string.unquoted.label.js,
        , meta.object-literal.key.js,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -909,7 +909,7 @@
                 <string>
       , punctuation.definition.string.template.begin.js,
       , punctuation.definition.string.template.end.js,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -933,7 +933,7 @@
                 <key>scope</key>
                 <string>
       , string.template.js punctuation,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -984,7 +984,7 @@
                 <string>
         , punctuation.definition.string.begin.jsx,
         , punctuation.definition.string.end.jsx,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -998,7 +998,7 @@
                 <string>
        , string.unquoted.label.jsx,
        , meta.object-literal.key.jsx,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1034,7 +1034,7 @@
                 <string>
       , punctuation.definition.string.template.begin.jsx,
       , punctuation.definition.string.template.end.jsx,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1058,7 +1058,7 @@
                 <key>scope</key>
                 <string>
       , string.template.jsx punctuation,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1085,7 +1085,7 @@
                 <string>
         , punctuation.definition.string.begin.ts,
         , punctuation.definition.string.end.ts,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1099,7 +1099,7 @@
                 <string>
         , punctuation.definition.string.template.begin.ts,
         , punctuation.definition.string.template.end.ts,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1123,7 +1123,7 @@
                 <key>scope</key>
                 <string>
         , string.template.ts punctuation,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1137,7 +1137,7 @@
                 <string>
        , string.unquoted.label.ts,
        , meta.object-literal.key.ts,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1153,7 +1153,7 @@
       , entity.name.type.class.js,
       , entity.name.class.jsx,
       , entity.name.type.class.jsx,
-     </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1167,7 +1167,7 @@
                 <string>
         , storage.type.class.js,
         , storage.type.class.jsx,
-    </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1183,7 +1183,7 @@
       , storage.modifier.extends.js,
       , storage.type.extends.jsx,
       , storage.modifier.extends.jsx,
-     </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>fontStyle</key>
@@ -1223,7 +1223,7 @@
         , punctuation.definition.blockquote.markdown,
         , punctuation.definition.string.begin.markdown,
         , punctuation.definition.string.end.markdown,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1256,7 +1256,7 @@
         , entity.other.attribute-name.tag.jade,
         , constant.other.symbol.ruby,
         , entity.other.attribute-name.jsx,
-      </string>
+				</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -1271,6 +1271,6 @@
         <key>colorSpaceName</key>
         <string>sRGB</string>
         <key>semanticClass</key>
-        <string>theme.dark.🦄_shades_of_purple</string>
+        <string>theme.dark.shades_of_purple</string>
     </dict>
 </plist>
